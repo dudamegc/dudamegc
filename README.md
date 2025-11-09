@@ -7,8 +7,23 @@
 <p align="left"><strong>Prazer, eu sou Maria Eduarda!</strong></p>
 
 <p align="left">
-  <em><code>console.log("Em constante evolução — versão 2.0 carregando<span>.</span><span>.</span><span>.</span>")</code></em>
+  <code style="font-size: 18px;">
+    console.log("Em constante evolução — versão 2.0 carregando<span class="dots"></span>);
+  </code>
 </p>
+
+<style>
+.dots::after {
+  content: '';
+  animation: dot 1.5s steps(5, end) infinite;
+}
+@keyframes dot {
+  0%, 20% { content: ''; }
+  40% { content: '.'; }
+  60% { content: '..'; }
+  80%, 100% { content: '...'; }
+}
+</style>
 
 ---
 
@@ -45,6 +60,25 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, em processo constan
 
 ---
 
+### 🛠️ Projetos em Destaque
+
+<div align="left">
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Simulador%20de%20Investimentos-FF69B4?style=for-the-badge" />
+</a>
+<p><strong>Função:</strong> Calcula rendimento líquido considerando IOF e IR.<br>
+<strong>Tecnologia:</strong> Python </p>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Lembrete%20de%20Medicação-E91E63?style=for-the-badge" />
+</a>
+<p><strong>Função:</strong> Gerencia horários + envia notificações.<br>
+<strong>Tecnologias:</strong> React Native · Expo </p>
+
+</div>
+
+---
 
 
 ### 📬 Onde me encontrar
