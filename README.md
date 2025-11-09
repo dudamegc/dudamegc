@@ -4,7 +4,7 @@
 
 <h1 align="left">Hello World! 🌙</h1>
 
-<p align="left"><strong>Prazer, eu sou Maria Eduarda!</strong></p>
+<p align="left"><strong>Prazer, eu sou Maria Eduarda!Sou estudante de **Análise e Desenvolvimento de Sistemas**, em processo constante de evolução como **Desenvolvedora Full Stack**.</strong></p>
 
 <p align="left">
   <code style="font-size: 18px;">
@@ -12,14 +12,6 @@
   </code>
 </p>
 
-
----
-
-### 🚀 Sobre Mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, em processo constante de evolução como **Desenvolvedora Full Stack**.  
-
----
 
 ### 🧠 Tecnologias & Ferramentas
 
@@ -34,8 +26,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, em processo constan
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
 </div>
 
----
-
 ### 🎨 Outras Habilidades
 
 <div align="left">
@@ -45,29 +35,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, em processo constan
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
 </div>
-
----
-
-### 🛠️ Projetos em Destaque
-
-<div align="left">
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Simulador%20de%20Investimentos-FF69B4?style=for-the-badge" />
-</a>
-<p><strong>Função:</strong> Calcula rendimento líquido considerando IOF e IR.<br>
-<strong>Tecnologia:</strong> Python </p>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Lembrete%20de%20Medicação-E91E63?style=for-the-badge" />
-</a>
-<p><strong>Função:</strong> Gerencia horários + envia notificações.<br>
-<strong>Tecnologias:</strong> React Native · Expo </p>
-
-</div>
-
----
-
 
 ### 📬 Onde me encontrar
 
