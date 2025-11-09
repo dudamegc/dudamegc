@@ -4,7 +4,7 @@
 
 <h1 align="left">Hello World! 🌙</h1>
 
-<p align="left"><strong>Prazer, eu sou Maria Eduarda!Sou estudante de **Análise e Desenvolvimento de Sistemas**, em processo constante de evolução como **Desenvolvedora Full Stack**.</strong></p>
+<p align="left"><strong>Prazer, eu sou Maria Eduarda!Sou estudante de Análise e Desenvolvimento de Sistemas, em processo constante de evolução como Desenvolvedora Full Stack.</strong></p>
 
 <p align="left">
   <code style="font-size: 18px;">
