@@ -12,18 +12,6 @@
   </code>
 </p>
 
-<style>
-.dots::after {
-  content: '';
-  animation: dot 1.5s steps(5, end) infinite;
-}
-@keyframes dot {
-  0%, 20% { content: ''; }
-  40% { content: '.'; }
-  60% { content: '..'; }
-  80%, 100% { content: '...'; }
-}
-</style>
 
 ---
 
